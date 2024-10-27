@@ -45,7 +45,7 @@ INFO[0000] root command
 
   SERVER  | DOMAIN  | ADDRESS | METHOD | ROUTE |                                        HANDLER                                        | MIDDLEWARE  
 ----------|---------|---------|--------|-------|---------------------------------------------------------------------------------------|-------------
-  default | default | :9990   | ALL    | /     | github.com/let-light/gomodule/examples/configcenter.(*ConfigCenter).RootCommand.func1 |             
+  default | default | :9990   | ALL    | /     | github.com/im-pingo/gomodule/examples/configcenter.(*ConfigCenter).RootCommand.func1 |             
 ----------|---------|---------|--------|-------|---------------------------------------------------------------------------------------|-------------
  
 2023-04-14 15:53:21.136 39560: http server started listening on [:9990] 

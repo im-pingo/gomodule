@@ -5,8 +5,8 @@ import (
 
 	"github.com/gogf/gf/frame/g"
 	"github.com/gogf/gf/net/ghttp"
-	"github.com/let-light/gomodule"
-	feature_configcenter "github.com/let-light/gomodule/examples/features/configcenter"
+	"github.com/im-pingo/gomodule"
+	feature_configcenter "github.com/im-pingo/gomodule/examples/features/configcenter"
 	"github.com/sirupsen/logrus"
 	"github.com/spf13/cobra"
 )

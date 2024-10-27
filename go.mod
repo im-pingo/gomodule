@@ -1,4 +1,4 @@
-module github.com/let-light/gomodule
+module github.com/im-pingo/gomodule
 
 go 1.18
 

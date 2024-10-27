@@ -5,9 +5,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/let-light/gomodule"
-	"github.com/let-light/gomodule/examples/configcenter"
-	feature_configcenter "github.com/let-light/gomodule/examples/features/configcenter"
+	"github.com/im-pingo/gomodule"
+	"github.com/im-pingo/gomodule/examples/configcenter"
+	feature_configcenter "github.com/im-pingo/gomodule/examples/features/configcenter"
 	"github.com/sirupsen/logrus"
 	"github.com/spf13/cobra"
 )
